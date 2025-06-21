@@ -47,8 +47,8 @@ Monitorea cambios diarios, semanales o mensuales fácilmente.
 > *(Agrega aquí tus capturas de pantalla una vez disponibles, por ejemplo:)*
 
 <div align="center">
-  <img src="https://i.imgur.com/dZEsipv.png" height="400">
-  <img src="https://i.imgur.com/HDZo5Eo.png" height="400">
+  <img src="https://i.imgur.com/ZzoYgvC.png" height="360">
+  <img src="https://i.imgur.com/HDZo5Eo.png" height="360">
 </div>
 
 ---
